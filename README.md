@@ -1,4 +1,4 @@
-# HotPan
+# HotPan :shallow_pan_of_food::plate_with_cutlery:
 #### [HotPan](https://wpinrui.github.io/HotPan/) is a mockup of a food planning and delivery service. It is built using HTML and Bootstrap 5. 
 
 ![mockup](https://user-images.githubusercontent.com/77185900/175830023-9febb17d-f7a4-40a5-8b8d-343b3186eb36.jpg)
